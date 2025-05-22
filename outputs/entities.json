@@ -1,0 +1,76 @@
+[
+  {
+    "file": "CV_TEMPLATE_0002.txt",
+    "name": "TEMPLATE",
+    "education_level": 0,
+    "education_field": "",
+    "total_experience_years": 0.0,
+    "skills": []
+  },
+  {
+    "file": "CV Sample 2.txt",
+    "name": "Permana Abadi Bandung",
+    "education_level": 1,
+    "education_field": "architecture",
+    "total_experience_years": 12.4,
+    "skills": [
+      "communication",
+      "sketchup",
+      "architecture",
+      "autocad"
+    ]
+  },
+  {
+    "file": "CV Sample 3.txt",
+    "name": "MOHAMAD DRAFTER D",
+    "education_level": 1,
+    "education_field": "architecture",
+    "total_experience_years": 2.0,
+    "skills": [
+      "project management",
+      "architecture",
+      "autocad"
+    ]
+  },
+  {
+    "file": "CV Sample 1.txt",
+    "name": "Bayu",
+    "education_level": 0,
+    "education_field": "architecture",
+    "total_experience_years": 11.6,
+    "skills": [
+      "sketchup",
+      "interior design",
+      "autocad",
+      "revit",
+      "architecture"
+    ]
+  },
+  {
+    "file": "CV Sample 4.txt",
+    "name": "INDRI",
+    "education_level": 2,
+    "education_field": "architecture",
+    "total_experience_years": 3.8,
+    "skills": [
+      "autocad",
+      "revit",
+      "architecture",
+      "creative",
+      "interpersonal skills",
+      "project management"
+    ]
+  },
+  {
+    "file": "CV Sample 5.txt",
+    "name": "Dani A R",
+    "education_level": 0,
+    "education_field": "engineering",
+    "total_experience_years": 0.5,
+    "skills": [
+      "communication",
+      "sketchup",
+      "autocad"
+    ]
+  }
+]

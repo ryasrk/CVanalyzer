@@ -1,0 +1,26 @@
+{
+  "required_skills": [
+    "architecture",
+    "interior design",
+    "creative",
+    "visualization skills",
+    "technical drawing skills",
+    "communication",
+    "project management",
+    "AutoCAD",
+    "Sketchup",
+    "Revit",
+    "interpersonal skills",
+    "presentation skills",
+    "knowledge of building codes and regulatory standards"
+  ],
+  "nice_to_have_skills": [
+    "resilient",
+    "problem solver",
+    "insightful",
+    "learner"
+  ],
+  "required_education_level": 1,
+  "required_education_field": "architecture",
+  "minimum_years_experience": 2.0
+}
