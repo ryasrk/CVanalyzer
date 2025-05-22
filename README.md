@@ -29,6 +29,7 @@ project-root/
 ├── requirements.txt       
 ├── README.md              # Project overview & “one-command” run
 ├── main.py                # Shell script to run end-to-end pipeline
+├── .env                   # Openai Key API    
 └── dashboard.py           # Streamlit app for interactive viewing
 
 ---
