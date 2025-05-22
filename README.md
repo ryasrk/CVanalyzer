@@ -30,3 +30,21 @@ project-root/
 ├── README.md              # Project overview & “one-command” run
 ├── main.py                # Shell script to run end-to-end pipeline
 └── dashboard.py           # Streamlit app for interactive viewing
+
+---
+
+## ⚙️ Configuration & Running the Dashboard
+
+1. **Set your OpenAI API key**  
+    Create a `.env` file in the project root with the following content:
+    ```env
+    OPENAI_API_KEY=your_openai_api_key_here
+    ```
+    Replace `your_openai_api_key_here` with your actual OpenAI API key.
+
+2. **Launch the Streamlit dashboard**  
+    Run the following command from the project root:
+    ```bash
+    streamlit run dashboard.py
+    ```
+    This will start the interactive dashboard in your browser.
