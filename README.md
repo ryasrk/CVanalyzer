@@ -37,15 +37,11 @@ project-root/
 ##Configuration & Running the Dashboard
 
 1. Set your OpenAI API key  
-    Create a `.env` file in the project root with the following content:
-    ```env
+    Create a '.env' file in the project root with the following content:
     OPENAI_API_KEY=your_openai_api_key_here
-    ```
     Replace `your_openai_api_key_here` with your actual OpenAI API key.
 
 2. Launch the Streamlit dashboard
-    Run the following command from the project root:
-    ```bash
+    Run the following command:
     streamlit run dashboard.py
-    ```
     This will start the interactive dashboard in your browser.
